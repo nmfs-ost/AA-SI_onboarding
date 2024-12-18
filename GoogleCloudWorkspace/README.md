@@ -7,5 +7,5 @@ Our Google workspace has computing environments (i.e., workstations) and a stora
 Find information about the AA-SI workstations [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkspace/GoogleCloudWorkstations).
 
 ## Google Cloud Storage
-Find informatoin about the AA-SI storage here
+Find information about the AA-SI storage [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkspace/GoogleCloudStorage).
 
