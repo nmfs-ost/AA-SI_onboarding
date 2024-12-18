@@ -1,3 +1,6 @@
+# Google Cloud Workstations
+For now we are using test workstations configured by NOAA OCIO. The only configuration we have available is the linux-base-32. This will change when we are able to create "permanent" workstations and we will update this page when we migrate. 
+
 ## Create a TEST Workstation  
 1. Contact Josh Lee (joshua.lee@noaa.gov) and request a workstation.
 2. He will send you a link to directions to set up a workstation.
