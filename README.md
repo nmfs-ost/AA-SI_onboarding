@@ -6,8 +6,8 @@ Are you new to the AA-SI or just want a refresher? Here is the site for you!
 ## Background
 The goals of the Active Acoustics Strategic Initiative (AA-SI) include organizing and standardizing multi-frequency and wide-bandwidth echosounder data to enable efficient data processing and analysis. This repository houses useful background information on how active acoustics are used to study fish and zooplankton, the types of equipment and data formats commonly employed, and requirements for data standarization. 
 
-## Google Workstation
-Find out more about creating, installing packages, and working on the AA-SI workstations [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkstation).
+## Google Work Space
+Find out more about the AA-SI Google work space [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkspace).
 
 ## Data Collection: Instrumentation
 Find out more about the echosounders that NOAA Fisheries has used to collect active acoustic data over the past several decades [here](https://github.com/nmfs-ost/AA-SI_onboarding/blob/main/Instruments/README.md).
