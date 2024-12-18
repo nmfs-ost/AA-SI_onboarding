@@ -10,7 +10,7 @@ The goals of the Active Acoustics Strategic Initiative (AA-SI) include organizin
 Find out more about creating, installing packages, and working on the AA-SI workstations [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkstation).
 
 ## Data Collection: Instrumentation
-Find out more about the echosounders that NOAA Fisheries has used to collect active acoustic data over the past several decades [here](https://github.com/nmfs-ost/AA-SI_onboarding/tree/main/GoogleCloudWorkstation).
+Find out more about the echosounders that NOAA Fisheries has used to collect active acoustic data over the past several decades [here](https://github.com/nmfs-ost/AA-SI_onboarding/blob/main/Instruments/README.md).
 
 
 # Disclaimer
